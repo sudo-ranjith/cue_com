@@ -19,3 +19,4 @@ python-dotenv==1.0.1
 aiofiles==24.1.0
 slowapi==0.1.9
 qrcode==8.0
+email-validator>=2.0.0
